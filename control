@@ -1,0 +1,9 @@
+Package: com.newpolygons.frosting
+Name: Frosting
+Depends: mobilesubstrate, me.kritanta.libCozy, com.spark.libsparkcolourpicker, firmware(>= 13)
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Match System Tint To Wallpaper!
+Maintainer: NewPolygons <newpolygons121@gmail.com>
+Author: NewPolygons <newpolygons121@gmail.com>
+Section: Tweaks
